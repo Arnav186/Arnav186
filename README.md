@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnav186
-- 👀 I’m interested in Coding and individual projectss
-- 🌱 I’m currently learning c language
+- 👀 I’m interested in Coding and individual projects
+- 🌱 C language done. Focus on html, css and js to build web development projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me contact me on my mail arnavnawade@gmail.com
 - 😄 Pronouns: Him
